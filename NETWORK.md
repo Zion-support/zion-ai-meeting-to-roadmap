@@ -1,10 +1,17 @@
-# Zion AI Meeting-to-Roadmap
+# Zion AI Meeting To Roadmap — Zion App Network
 
-Converts meeting outcomes into prioritized roadmap items.
+Zion AI Meeting-to-Roadmap — converts meeting outcomes into prioritized roadmap items. Part of the [Zion Tech Group](https://ziontechgroup.com) app network.
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [zion-ai-meeting-assistant](https://github.com/Zion-support/zion-ai-meeting-assistant) · [ai-project-tracker](https://github.com/Zion-support/ai-project-tracker) · [zion-project-master](https://github.com/Zion-support/zion-project-master) · [zion-ai-workflow-automator](https://github.com/Zion-support/zion-ai-workflow-automator)
+- 🔗 Live app: [https://ziontechgroup.com/zion-ai-meeting-to-roadmap](https://ziontechgroup.com/zion-ai-meeting-to-roadmap)
+- 🏠 Category: [Business Tools & Calculators](https://github.com/Zion-support/zion-network/blob/main/network/business-tools-calculators.md)
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+## Related apps in the network
+
+- [Zion AI Meeting Assistant](https://github.com/Zion-support/zion-ai-meeting-assistant) — AI meeting assistant
+- [Zion AI Meeting Scheduler](https://github.com/Zion-support/zion-ai-meeting-scheduler) — negotiation-free scheduling
+- [Zion Project Master](https://github.com/Zion-support/zion-project-master) — project management
+- [AI Project Tracker](https://github.com/Zion-support/ai-project-tracker) — intelligent project management and forecasting
+- [Meeting Cost Calculator](https://github.com/Zion-support/meeting-cost-calculator) — the real price of meetings
+
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
